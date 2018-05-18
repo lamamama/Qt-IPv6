@@ -4,7 +4,7 @@
 #include <QDialog>
 #include "cantcoap.h"
 #include <QtNetwork>
-
+//
 namespace Ui {
     class control;
 }

@@ -38,7 +38,8 @@ private:
     void read_sqlite ( const QString sql_name ); /* 从数据库中读取信息 */
     void Clear(void);//清除缓存区数据和清除两个曲线
     QTimer dataTimer;
-     QTimer *Timer;
+     QTimer *Timer;//为了实时刷新曲线图
+
 };
 
 /* 定义号码和IPv6地址集合的结构体 */
