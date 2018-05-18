@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/miaojie.png</file>
+        <file>image/switch_off.png</file>
+        <file>image/switch_on.png</file>
+        <file>image/light_on.png</file>
+        <file>image/light_off.png</file>
+        <file>image/log_background.jpg</file>
+    </qresource>
+</RCC>
